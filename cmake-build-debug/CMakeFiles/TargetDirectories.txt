@@ -1,0 +1,4 @@
+/home/pinje/projects/mapqt5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pinje/projects/mapqt5/cmake-build-debug/CMakeFiles/mapqt5.dir
+/home/pinje/projects/mapqt5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pinje/projects/mapqt5/cmake-build-debug/CMakeFiles/mapqt5_autogen.dir
